@@ -16,10 +16,12 @@ body{
 }
 
 .doggo {
+    position: fixed;
     border-radius: 50%;
     margin-left: 115
 }
 #col-3{
+    margin-top: auto;
     width: 20px;
     height: 100vh;
     text-align: center;
@@ -27,13 +29,15 @@ body{
     
 }
 #text{
+    position: fixed;
     width: 385
 }
 #text{
+    position: fixed;
     margin-left: 80   
 }
 #text{
-    margin-top: 20
+    margin-top: 300
 }
 #left{
     height: 100vh
